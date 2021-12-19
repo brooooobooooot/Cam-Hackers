@@ -12,8 +12,9 @@ print("""
 ██     ███ ██████ ██████ ██     ████   █████
 ██         ██  ██ ██  ██ ██     ██ ██     ██
  █████     ██  ██ ██  ██  █████ ██  ██ █████
-        
-\033[1;31m      Presented By : Bro Mantovani 
+
+\033[1;31mPresented By : Bro Mantovani 
+
 \033[1;31m1) \033[1;37mUnited States
 \033[1;31m2) \033[1;37mJapan
 \033[1;31m3) \033[1;37mItaly
